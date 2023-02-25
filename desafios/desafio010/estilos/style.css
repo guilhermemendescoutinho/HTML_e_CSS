@@ -55,6 +55,7 @@ header p{
     max-width: 500px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 40px;
     margin: auto
 }
 
@@ -75,6 +76,7 @@ nav a:hover{
     transition-duration: 0.4s;
     text-decoration: underline black 2px;
     border-radius: 5%;
+    font-size: 21px;
 }
 
 main{
